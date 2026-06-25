@@ -23,6 +23,28 @@ Each project is designed to simulate real-world cybersecurity scenarios, strengt
 
 📁 GRC Projects (3)
 
+# Cybersecurity Portfolio
+
+## SOC Projects
+- SOC Analysis I
+- SOC Analysis II
+- Incident Response Investigation
+
+## Threat Intelligence Projects
+- IOC Hunting
+- Malware Intelligence
+- OSINT Investigation
+
+## Penetration Testing Projects
+- Web Application Pentest
+- Active Directory Lab
+- Vulnerability Assessment
+
+## GRC Projects
+- Risk Assessment
+- ISO 27001 Gap Analysis
+- Security Policy Framework
+
 ## Goals
 
 This portfolio reflects my commitment to continuous learning and professional growth in cybersecurity. It serves as a showcase of my practical experience, methodologies, and ability to approach security challenges from both technical and governance perspectives.
