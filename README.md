@@ -15,35 +15,16 @@ Each project is designed to simulate real-world cybersecurity scenarios, strengt
 
 ## Portfolio Structure
 
-📁 SOC Projects (3)
+📁 SOC Projects
 
-📁 Threat Intelligence Projects (3)
+[Network-Traffic-Investigation-with-Wireshark](https://github.com/PalenceKonissi/SOC-Network-Traffic-Investigation-with-Wireshark.git)
 
-📁 Penetration Testing Projects (3)
+📁 Threat Intelligence Projects
 
-📁 GRC Projects (3)
+📁 Penetration Testing Projects
 
-# Cybersecurity Portfolio
+📁 GRC Projects
 
-## SOC Projects
-- SOC Analysis I
-- SOC Analysis II
-- Incident Response Investigation
-
-## Threat Intelligence Projects
-- IOC Hunting
-- Malware Intelligence
-- OSINT Investigation
-
-## Penetration Testing Projects
-- Web Application Pentest
-- Active Directory Lab
-- Vulnerability Assessment
-
-## GRC Projects
-- Risk Assessment
-- ISO 27001 Gap Analysis
-- Security Policy Framework
 
 ## Goals
 
